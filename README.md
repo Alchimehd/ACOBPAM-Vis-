@@ -9,7 +9,7 @@ Follow the instructions in [xdot module](https://github.com/jrfonseca/xdot.py) t
 # Screenshots
 
 ![unzoomed view](https://github.com/Alchimehd/ACOBPAM-Vis-/blob/main/s1.png)
-![zoomed view](https://github.com/Alchimehd/ACOBPAM-Vis-/blob/main/s1.png)
+![zoomed view](https://github.com/Alchimehd/ACOBPAM-Vis-/blob/main/s2.png)
 
 # Features
 - Nodes represent patterns that are drawn inside. Their size depends on their support which can be seen when hovering.
