@@ -4,7 +4,7 @@ This script is a Gtk3+ visualizer for the plugin ACOBPAM in ProM 6; the de facto
 
 It is based on the [xdot module](https://github.com/jrfonseca/xdot.py).
 
-Follow the instructions in [xdot module](https://github.com/jrfonseca/xdot.py) to install.
+Follow the [instructions](https://github.com/jrfonseca/xdot.py) to install.
 
 # Screenshots
 
